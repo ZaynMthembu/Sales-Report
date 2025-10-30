@@ -4,7 +4,7 @@ The Sales Performance Dashboard Report provides an overview of sales data across
 The Sales Performance Dashboard Report provides an overview of sales data across various dimensions including product categories, countries, customer gender, and sub-categories over the years 2011 to 2016. It aims to give insights into sales performance to aid in strategic decision-making.
 
 ## Dataset used
-< a href="https://github.com/ZaynMthembu/Sales-Report/blob/main/SalesCapestoneProject.xlsx"> View dashboard </a>
+< a href="https://github.com/ZaynMthembu/Sales-Report/blob/main/SalesCapestoneProject.xlsx"> Dataset </a>
 
 
 ## QUESTIONS (KPIs)
@@ -23,6 +23,10 @@ The processes involved in analyzing this dashboard include:
 - Examining revenue trends over time to identify growth patterns.
 - Assessing revenue distribution by customer gender for targeted marketing.
 - Evaluating profit by sub-category for product strategy adjustments.
+
+## Dashboard
+<img width="950" height="551" alt="Sales" src="https://github.com/user-attachments/assets/16c369d8-59e3-461c-aa93-f40124ffd157" />
+
 
 ## Project Insights
 From the dashboard:
